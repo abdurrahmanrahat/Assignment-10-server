@@ -1,0 +1,284 @@
+[
+    {
+        "chef_picture": "https://www.freepik.com/free-photo/thoughtful-young-handsome-cook-chef-uniform-keeping-hands-together-isolated-white-space_11918591.htm#from_view=detail_alsolike",
+        "chef_name": "John Smith",
+        "years_of_experience": 10,
+        "number_of_recipes": 200,
+        "likes": 980,
+        "chef_description": "John Smith is a renowned chef with [Number] years of experience in the culinary industry. They have worked at several Michelin-starred restaurants and have a passion for using locally-sourced, seasonal ingredients in their cooking. Their signature dishes are known for their creative flavor combinations and stunning presentation. [Chef Name] has also published several cookbooks and has appeared on numerous cooking shows and competitions. They are dedicated to sharing their knowledge and love of cooking with others through cooking classes and community events. [Chef Name] continues to innovate and push the boundaries of traditional cuisine, inspiring others to experiment and explore the art of cooking.",
+        "chef_id": "01",
+        "recipes": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "Dried red chilies",
+                    "Peanuts",
+                    "Chicken",
+                    "Sichuan peppercorns",
+                    "Vegetables"
+                ],
+                "cooking_method": "Kung Pao Chicken is a popular Chinese stir-fry dish made with marinated chicken, peanuts, dried red chilies, Sichuan peppercorns, and vegetables, all tossed in a flavorful sauce.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "Soft tofu",
+                    "Ground pork",
+                    "Doubanjiang",
+                    "Sichuan peppercorns",
+                    "Garlic (minced)"
+                ],
+                "cooking_method": "Mapo Tofu is a popular Sichuanese dish made with soft tofu, ground pork, spicy broad bean paste, Sichuan peppercorns, and garlic, typically served with steamed rice.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "Chicken or vegetable broth",
+                    "Tofu (cut into small cubes)",
+                    "Shiitake mushrooms",
+                    "White vinegar",
+                    "Soy sauce"
+                ],
+                "cooking_method": "Hot and Sour Soup is a Chinese soup made with chicken or vegetable broth, tofu, shiitake mushrooms, white vinegar, soy sauce, cornstarch, and beaten eggs, typically garnished with scallions and cilantro.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://www.freepik.com/free-photo/smiling-young-male-cook-wearing-chef-uniform-glasses-isolated-white-wall_13741617.htm#query=chinese%20chef%20people%20profile%20image&position=14&from_view=search&track=ais",
+        "chef_name": "Martin Yan",
+        "years_of_experience": 12,
+        "number_of_recipes": 230,
+        "likes": 760,
+        "chef_description": "Martin Yan is a celebrated Chinese-American chef and television host who has popularized Chinese cuisine around the world. Born in Guangzhou, China, Yan trained as a chef in Hong Kong before moving to the United States to open his first restaurant. He is best known for his PBS television series ,Yan Can Cook, which has been broadcast in over 50 countries. Yan has also authored several cookbooks and received numerous awards for his contributions to the culinary arts.",
+        "chef_id": "02",
+        "recipes": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "Dried red chilies",
+                    "Peanuts",
+                    "Chicken",
+                    "Sichuan peppercorns",
+                    "Vegetables"
+                ],
+                "cooking_method": "Kung Pao Chicken is a popular Chinese stir-fry dish made with marinated chicken, peanuts, dried red chilies, Sichuan peppercorns, and vegetables, all tossed in a flavorful sauce.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "Soft tofu",
+                    "Ground pork",
+                    "Doubanjiang",
+                    "Sichuan peppercorns",
+                    "Garlic (minced)"
+                ],
+                "cooking_method": "Mapo Tofu is a popular Sichuanese dish made with soft tofu, ground pork, spicy broad bean paste, Sichuan peppercorns, and garlic, typically served with steamed rice.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "Chicken or vegetable broth",
+                    "Tofu (cut into small cubes)",
+                    "Shiitake mushrooms",
+                    "White vinegar",
+                    "Soy sauce"
+                ],
+                "cooking_method": "Hot and Sour Soup is a Chinese soup made with chicken or vegetable broth, tofu, shiitake mushrooms, white vinegar, soy sauce, cornstarch, and beaten eggs, typically garnished with scallions and cilantro.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://www.freepik.com/free-photo/beautiful-woman-chef-image_6413868.htm#from_view=detail_alsolike",
+        "chef_name": "Ming Tsai",
+        "years_of_experience": 16,
+        "number_of_recipes": 310,
+        "likes": 990,
+        "chef_description": "Ming Tsai is a Chinese-American chef, restaurateur, and television personality. Born in Newport Beach, California, Tsai grew up in a family of restaurateurs and went on to graduate from the Culinary Institute of America. He is known for his fusion cuisine that combines Chinese, Japanese, and French techniques, and has authored several cookbooks. Tsai is also the host and executive producer of (Simply Ming), a cooking show that airs on PBS.",
+        "chef_id": "03",
+        "recipes": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "Dried red chilies",
+                    "Peanuts",
+                    "Chicken",
+                    "Sichuan peppercorns",
+                    "Vegetables"
+                ],
+                "cooking_method": "Kung Pao Chicken is a popular Chinese stir-fry dish made with marinated chicken, peanuts, dried red chilies, Sichuan peppercorns, and vegetables, all tossed in a flavorful sauce.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "Soft tofu",
+                    "Ground pork",
+                    "Doubanjiang",
+                    "Sichuan peppercorns",
+                    "Garlic (minced)"
+                ],
+                "cooking_method": "Mapo Tofu is a popular Sichuanese dish made with soft tofu, ground pork, spicy broad bean paste, Sichuan peppercorns, and garlic, typically served with steamed rice.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "Chicken or vegetable broth",
+                    "Tofu (cut into small cubes)",
+                    "Shiitake mushrooms",
+                    "White vinegar",
+                    "Soy sauce"
+                ],
+                "cooking_method": "Hot and Sour Soup is a Chinese soup made with chicken or vegetable broth, tofu, shiitake mushrooms, white vinegar, soy sauce, cornstarch, and beaten eggs, typically garnished with scallions and cilantro.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://www.freepik.com/free-photo/male-chef-white-uniform-holding-empty-plate-looking-cheerful_10183882.htm#from_view=detail_alsolike",
+        "chef_name": "Ching-He Huang",
+        "years_of_experience": 11,
+        "number_of_recipes": 250,
+        "likes": 850,
+        "chef_description": "Ching-He Huang is a Taiwanese-born British chef and television presenter who is known for her modern take on Chinese cuisine. Huang studied at Le Cordon Bleu in London and went on to host several cooking shows on the BBC and the Cooking Channel. She has authored several cookbooks, including (Ching's Fast Food), and is known for her focus on fresh, healthy ingredients.",
+        "chef_id": "04",
+        "recipes": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "Dried red chilies",
+                    "Peanuts",
+                    "Chicken",
+                    "Sichuan peppercorns",
+                    "Vegetables"
+                ],
+                "cooking_method": "Kung Pao Chicken is a popular Chinese stir-fry dish made with marinated chicken, peanuts, dried red chilies, Sichuan peppercorns, and vegetables, all tossed in a flavorful sauce.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "Soft tofu",
+                    "Ground pork",
+                    "Doubanjiang",
+                    "Sichuan peppercorns",
+                    "Garlic (minced)"
+                ],
+                "cooking_method": "Mapo Tofu is a popular Sichuanese dish made with soft tofu, ground pork, spicy broad bean paste, Sichuan peppercorns, and garlic, typically served with steamed rice.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "Chicken or vegetable broth",
+                    "Tofu (cut into small cubes)",
+                    "Shiitake mushrooms",
+                    "White vinegar",
+                    "Soy sauce"
+                ],
+                "cooking_method": "Hot and Sour Soup is a Chinese soup made with chicken or vegetable broth, tofu, shiitake mushrooms, white vinegar, soy sauce, cornstarch, and beaten eggs, typically garnished with scallions and cilantro.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://www.freepik.com/free-photo/strict-young-blonde-male-cook-chef-uniform-cap-holding-ladle-looking-camera-doing-stop-gesture-isolated-white-wall-with-copy-space_16539291.htm#page=2&query=chinese%20chef%20people%20profile%20image&position=14&from_view=search&track=ais",
+        "chef_name": "Danny Bowien",
+        "years_of_experience": 13,
+        "number_of_recipes": 264,
+        "likes": 896,
+        "chef_description": "Danny Bowien is a Korean-American chef who is known for his inventive take on Chinese cuisine. Bowien grew up in Oklahoma and worked in various kitchens before opening his own restaurant, Mission Chinese Food, in San Francisco. He is known for his bold, spicy flavors and creative use of ingredients. Bowien has won several awards for his cooking, including a James Beard Foundation Award for Rising Star Chef.",
+        "chef_id": "05",
+        "recipes": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "Dried red chilies",
+                    "Peanuts",
+                    "Chicken",
+                    "Sichuan peppercorns",
+                    "Vegetables"
+                ],
+                "cooking_method": "Kung Pao Chicken is a popular Chinese stir-fry dish made with marinated chicken, peanuts, dried red chilies, Sichuan peppercorns, and vegetables, all tossed in a flavorful sauce.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "Soft tofu",
+                    "Ground pork",
+                    "Doubanjiang",
+                    "Sichuan peppercorns",
+                    "Garlic (minced)"
+                ],
+                "cooking_method": "Mapo Tofu is a popular Sichuanese dish made with soft tofu, ground pork, spicy broad bean paste, Sichuan peppercorns, and garlic, typically served with steamed rice.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "Chicken or vegetable broth",
+                    "Tofu (cut into small cubes)",
+                    "Shiitake mushrooms",
+                    "White vinegar",
+                    "Soy sauce"
+                ],
+                "cooking_method": "Hot and Sour Soup is a Chinese soup made with chicken or vegetable broth, tofu, shiitake mushrooms, white vinegar, soy sauce, cornstarch, and beaten eggs, typically garnished with scallions and cilantro.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "chef_picture": "https://www.freepik.com/free-photo/beautiful-woman-chef-image_6413896.htm#page=2&query=chinese%20chef%20people%20profile%20image&position=9&from_view=search&track=ais",
+        "chef_name": "Susur Lee",
+        "years_of_experience": 17,
+        "number_of_recipes": 324,
+        "likes": 996,
+        "chef_description": "Susur Lee is a Hong Kong-born Canadian chef who has gained international acclaim for his innovative approach to Chinese cuisine. Lee began his career in Toronto and has since opened restaurants in New York, Singapore, and Hong Kong. He is known for his fusion cuisine that blends traditional Chinese techniques with contemporary Western ingredients. Lee has received numerous awards for his contributions to the culinary arts, including several Michelin stars.",
+        "chef_id": "06",
+        "recipes": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                    "Dried red chilies",
+                    "Peanuts",
+                    "Chicken",
+                    "Sichuan peppercorns",
+                    "Vegetables"
+                ],
+                "cooking_method": "Kung Pao Chicken is a popular Chinese stir-fry dish made with marinated chicken, peanuts, dried red chilies, Sichuan peppercorns, and vegetables, all tossed in a flavorful sauce.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "Soft tofu",
+                    "Ground pork",
+                    "Doubanjiang",
+                    "Sichuan peppercorns",
+                    "Garlic (minced)"
+                ],
+                "cooking_method": "Mapo Tofu is a popular Sichuanese dish made with soft tofu, ground pork, spicy broad bean paste, Sichuan peppercorns, and garlic, typically served with steamed rice.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "Chicken or vegetable broth",
+                    "Tofu (cut into small cubes)",
+                    "Shiitake mushrooms",
+                    "White vinegar",
+                    "Soy sauce"
+                ],
+                "cooking_method": "Hot and Sour Soup is a Chinese soup made with chicken or vegetable broth, tofu, shiitake mushrooms, white vinegar, soy sauce, cornstarch, and beaten eggs, typically garnished with scallions and cilantro.",
+                "rating": 5
+            }
+        ]
+    }
+]
