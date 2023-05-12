@@ -11,9 +11,16 @@ app.get('/', (req, res) => {
     res.send('Chef is running!!');
 })
 
-// all chef data send to client side.
+// all chefs data send to client side.
 app.get('/chefs', (req, res) => {
     res.send(chefsData);
+})
+
+// send specifically chef data to client side.
+app.get('/chefs/:id', (req, res) => {
+    const id = req.params.id;
+    const specificChef = chefsData.find(chef => chef.chef_id === id);
+    res.send(specificChef);
 })
 
 app.listen(port, () => {
